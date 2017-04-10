@@ -23,14 +23,23 @@
 * # 简洁易用的 Blog
 * [使用 Docker 部署 Ghost 教程](pages/ghost-docker.md)
 
+[Python]()
+
+* [使用 conda 管理 Python 环境](pages/使用 conda 管理 Python 环境.md)
+* [使用 Python 管理数据](pages/使用 Python 管理数据.md)
+* [为你的 Python 项目导出依赖](pages/为你的 Python 项目导出依赖.md)
+* [在 Python 中解析命令行参数](pages/在 Python 中解析命令行参数.md)
+
 [经验分享]()
 
 * # 我的利器分享
 * [利器访谈 | Slark、iOS 工程师、软件控](pages/liqi.md)
 
-<!-- [树莓派]() -->
+[树莓派]()
 
-<!-- [VPS 推荐]() -->
+* # 树莓派折腾教程
+* [树莓派 - 安装系统](pages/respberrypi-install.md)
+* [树莓派 - 安装 MySQL](pages/respberrypi-mysql.md)
 
 [关于](pages/about.md)
 
