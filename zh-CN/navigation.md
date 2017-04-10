@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](Flatly)
+[gimmick:theme (inverse: true)](flatly)
 
 
 <!--
@@ -63,3 +63,5 @@
 <!--
 [gimmick:themechooser](Choose theme)
 -->
+
+
