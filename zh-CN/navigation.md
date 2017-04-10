@@ -20,13 +20,11 @@
 
 [部署教程]()
 
-  * # ---
   * [使用 Docker 部署 Ghost 教程](pages/ghost-docker.md)
   ---
 
 [经验分享]()
 
-  * # ---
   * [利器访谈 | Slark、iOS 工程师、软件控](pages/liqi.md)
   ---
 
