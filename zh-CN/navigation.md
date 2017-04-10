@@ -11,8 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme (inverse: true)](Flatly)
-
+[gimmick:theme (inverse: false)](Flatly)
 
 <!--
   -- Navigation
@@ -20,10 +19,16 @@
   -->
 
 [部署教程]()
+
+* # SubMenu Heading 1
 * [使用 Docker 部署 Ghost 教程](pages/ghost-docker.md)
+----
 
 [经验分享]()
+
+* # SubMenu Heading 1
 * [利器访谈 | Slark、iOS 工程师、软件控](pages/liqi.md)
+----
 
 <!-- [树莓派]() -->
 
